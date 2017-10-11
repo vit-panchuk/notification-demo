@@ -88,6 +88,7 @@
     <orderEntry type="library" scope="PROVIDED" name="web-console (v3.5.1, RVM: ruby-2.4.1 [notification-demo]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.6.5, RVM: ruby-2.4.1 [notification-demo]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.2, RVM: ruby-2.4.1 [notification-demo]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="wisper (v2.0.0, RVM: ruby-2.4.1 [notification-demo]) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
