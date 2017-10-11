@@ -2,6 +2,8 @@
 
 This is a proof of concept app with [Wisper](https://github.com/krisleech/wisper) and ActiveCable to show that we can organize our Notifications with Publish/Subscribe pattern using Wisper and we will be able to add ActiveCable in future if we want.
 
+https://polar-springs-69116.herokuapp.com/
+
 ## Procs
 
 * We can better organize our notifications with Pub/Sub
